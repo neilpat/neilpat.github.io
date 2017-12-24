@@ -1,0 +1,65 @@
+.indexImage{
+    height: 200px;
+    width: 300px;
+    position: absolute;
+    left: 40%;
+    right: 50%;
+    top: 30%;
+    bottom: 50%;  
+}
+.IndexPageLinks{
+    height: 30px;
+    width: 300px;
+    border: 1px;
+    position: absolute;
+    left: 40%;
+    right: 50%;
+    top: 65%;
+    bottom: 50%;
+}
+.CouseWork{
+    float: left;
+}
+.AboutMe{
+    float: right;
+}
+.centerHeading{
+   text-align: center;
+}
+.main_background{
+    background-color: azure;
+}
+.course_background{
+    background-color: beige;
+}
+.header{
+    font-size: 60px;
+    text-decoration: underline;
+    outline-style: none;
+    text-align: center;
+    position: relative;
+    top: 50px;  
+}
+.CSE_320{
+    position: relative;
+    top: 20px;
+    left: 100px;
+    font-size: 50px;
+    font-family: fantasy;
+}
+.CSE_361{
+    position: relative;
+    top: 20px;
+    left: 100px;
+    font-size: 50px;
+    font-family: fantasy;
+    
+}
+.CSE_219{
+    position: relative;
+    top: 20px;
+    left: 100px;
+    font-size: 50px;
+    font-family: fantasy;
+    
+}
